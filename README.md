@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tools I use</h2>
+<h2 data-importer="text" align="left">Tools and programming languages I use</h2>
 
 ###
 
